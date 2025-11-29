@@ -61,7 +61,7 @@ Uso permitido únicamente con fines educativos o de demostración.
 
 ## ✨ Autoría
 
-Feature desarrollado por Lae Tejero, como parte del módulo de Sistemas Generativos de IA en Ingeniería de Software.
+Feature desarrollado por Leticia Tejero, como parte del módulo de Sistemas Generativos de IA en Ingeniería de Software.
 
 ---
 
