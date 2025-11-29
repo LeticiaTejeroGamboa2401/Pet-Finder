@@ -66,4 +66,4 @@ Feature desarrollado por Lae Tejero, como parte del módulo de Sistemas Generati
 ---
 
 ## 📁 Reporte Ejecutivo para Stakeholders
-* [Reporte Ejecutivo](Public/Informe.pdf)
+* [Reporte Ejecutivo](public/Informe.pdf)
