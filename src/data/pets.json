@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Luna",
+    "type": "Gato",
+    "image": "/pets/Luna.jpg",
+    "age": "2"
+  },
+  {
+    "id": 2,
+    "name": "Meave",
+    "type": "Zorro",
+    "image": "/pets/Maeve.jpg",
+    "age": "4"
+  },
+  {
+    "id": 3,
+    "name": "Nube",
+    "type": "Gato",
+    "image": "/pets/Nube.jpg",
+    "age": "3"
+  },
+  {
+    "id": 4,
+    "name": "Eleonor",
+    "type": "Perro",
+    "image": "/pets/Eleonor.jpg",
+    "age": "2"
+  },
+  {
+    "id": 5,
+    "name": "Margaret",
+    "type": "Camaleon",
+    "image": "/pets/Margaret.jpg",
+    "age": "4"
+  },
+  {
+    "id": 6,
+    "name": "Bruno",
+    "type": "Serpiente",
+    "image": "/pets/Bruno.jpg",
+    "age": "5"
+  },
+  {
+    "id": 7,
+    "name": "Brandon",
+    "type": "Perro",
+    "image": "/pets/Brandon.jpg",
+    "age": "1.5"
+  },
+  {
+    "id": 8,
+    "name": "Dona",
+    "type": "Serpiente",
+    "image": "/pets/Dona.jpg",
+    "age": "2"
+  }
+  ,
+  {
+    "id": 9,
+    "name": "Drew",
+    "type": "Gato",
+    "image": "/pets/Drew.jpg",
+    "age": "1.5"
+  },
+  {
+    "id": 10,
+    "name": "Julien",
+    "type": "Lemur",
+    "image": "/pets/Julien.jpg",
+    "age": "2"
+  }
+]
