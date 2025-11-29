@@ -4,7 +4,7 @@ Este feature forma parte del proyecto **Pet Finder**, una interfaz desarrollada 
 
 Este módulo incluye:
 - Motor de búsqueda por nombre.
-- Filtro por tipo de mascota (Perro / Gato / Todos).
+- Filtro por tipo de mascota (Perro / Gato / Lemur / Camaleon / Zorro / Serpiente / Todos).
 - Tarjetas con diseño uniforme y responsivo.
 - Integración de imágenes locales desde `/public`.
 - Grid adaptativo para mostrar los resultados de manera limpia y ordenada.
