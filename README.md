@@ -22,26 +22,29 @@ Este módulo incluye:
 ---
 
 ## 📁 Estructura del Feature
-src/
-├── components/
-│ ├── Filters.jsx # Barra de filtros (texto + select)
-│ ├── PetCard.jsx # Tarjeta individual de mascota
-│ └── PetList.jsx # Grid donde se muestran las tarjetas
-├── data/
-│ └── pets.json # Datos locales de mascotas
-public/
-└── pets/ # Imágenes locales
 
----
+  ```bash
+  src/
+    ├── components/
+    │ ├── Filters.jsx # Barra de filtros (texto + select)
+    │ ├── PetCard.jsx # Tarjeta individual de mascota
+    │ └── PetList.jsx # Grid donde se muestran las tarjetas
+    ├── data/
+    │ └── pets.json # Datos locales de mascotas
+    public/
+    └── pets/ # Imágenes locales
+  ```
+
 
 ## 📦 Instalación y ejecución
-npm install
-npm run dev
-
-La aplicación se ejecuta en:
-https://localhost:5173
-
----
+1. Clonar el repositorio
+   ```bash
+      git clone https://github.com/LeticiaTejeroGamboa2401/Pet-Finder.git
+      cd pet-finder
+2. Ejecutar el proyecto
+   ```bash
+      npm install
+      npm run dev
 
 ## 🛠 Mejoras futuras
 
